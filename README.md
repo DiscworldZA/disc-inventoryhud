@@ -38,6 +38,17 @@ TriggerEvent('disc-inventoryhud:registerItemUse', "water", function(source, item
 end)
 ```
 
+## Check Has Item
+```lua
+TriggerEvent('disc-inventoryhud:hasItem', source, 'bread', function(hasItem)
+    if hasItem then
+        print('Has Item')
+    else
+        print('No Item')
+    end
+end)
+```
+
 # BETA
 
 This version contains everything besides shops and weapons. 
