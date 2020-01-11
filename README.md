@@ -48,6 +48,8 @@ TriggerEvent('disc-inventoryhud:hasItem', source, 'bread', function(hasItem)
     end
 end)
 ```
+# REQUIREMENTS
+disc-base [repo](https://github.com/DiscworldZA/gta-resources)
 
 # BETA
 
