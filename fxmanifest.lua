@@ -1,3 +1,7 @@
+fx_version 'adamant'
+
+game 'gta5'
+
 description 'Disc InventoryHud Redo'
 
 version '0.0.1'
